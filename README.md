@@ -18,7 +18,7 @@ This repository tracks my daily coding progress and mini-challenges:
 ## 🚀 How to Run My Code Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/HONEYKAYTECH
+   git clone https://github.com/HONEYKAYTECH/myJava
    ```
 2. Navigate to the project directory:
    ```bash
